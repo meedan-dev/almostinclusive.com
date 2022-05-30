@@ -32,7 +32,7 @@ Call me #cuccio, Call me #Kaka.
 Call me by your #name.
 
 Say my #name, Say my #name.
-Call me #Jesus, Call me #HaiSoon.
+Call me #Jesus, Call me #HaiSoos.
 Call me by your #name.
 
 Say my #name, Say my #name.

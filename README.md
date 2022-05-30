@@ -32,7 +32,7 @@ Call me #cuccio, Call me #Kaka.
 Call me by your #name.
 
 Say my #name, Say my #name.
-Call me #Jesus, Call me #HaiSoon.
+Call me #Jesus, Call me #HaiSoos.
 Call me by your #name.
 
 Say my #name, Say my #name.
@@ -46,5 +46,5 @@ What's there in #names.
 What's up with the #numbers.
 I am just a #MrNobody.
 
-#Peace #Love #Unity
+#Peace #Love and #Wonder
 ```

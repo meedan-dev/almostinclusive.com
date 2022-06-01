@@ -8,7 +8,7 @@ Call me #Musa, Call me #Feron.
 Call me by your #name.
 
 Say my #name, Say my #name.
-Call me #Merry, Call me #Karen.
+Call me #Merry, Call me #Karren.
 Call me by your #name.
 
 Say my #name, Say my #name.
@@ -28,7 +28,7 @@ Call me #Bhudda, Call me #Baba.
 Call me by your #name.
 
 Say my #name, Say my #name.
-Call me #cuccio, Call me #Kaka.
+Call me #cucco, Call me #Kaka.
 Call me by your #name.
 
 Say my #name, Say my #name.

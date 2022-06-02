@@ -1,5 +1,9 @@
 # almostinclusive.com
 
+![flag](flag.png "Flag")
+
+[스텔라장(Stella Jang) - Colors Official MV](https://www.youtube.com/watch?v=CRHPclhtlN0)
+
 ```
 Call me by your #name.
 
@@ -48,3 +52,7 @@ I am just a #MrNobody.
 
 #Peace #Love and #Wonder
 ```
+
+## This project is open to contributions
+
+Create a pull request for collaboration.

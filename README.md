@@ -44,6 +44,7 @@ Call me #Muhammad, Call me #Mohammad, Call me #ॐ, Call me #مُحَمَّد, C
 Call me by your #name.
 
 Say my #name, Say my #name.
+Call me All Aah, Call me All Eeh, Call me All hoo
 Call me by your #name.
 
 What's there in #names.
@@ -56,3 +57,4 @@ I am just a #MrNobody.
 ## This project is open to contributions
 
 Create a pull request for collaboration.
+Raise an issue if objection.

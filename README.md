@@ -43,10 +43,6 @@ Say my #name, Say my #name.
 Call me #Muhammad, Call me #Mohammad, Call me #ॐ, Call me #مُحَمَّد, Call me #Muhammed, Call me #Mohamed.
 Call me by your #name.
 
-Say my #name, Say my #name.
-Call me All Aah, Call me All Eeh, Call me All Ooo
-Call me by your #name.
-
 What's there in #names.
 What's up with the #numbers.
 I am just a #MrNobody.

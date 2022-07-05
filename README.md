@@ -40,7 +40,7 @@ Call me #Jesus, Call me #HaiSoos.
 Call me by your #name.
 
 Say my #name, Say my #name.
-Call me #Muhammad, Call me #Mohammad, Call me #ॐ, Call me #مُحَمَّد, Call me #Muhammed.
+Call me #Muhammad, Call me #Mohammad, Call me #ॐ, Call me #مُحَمَّد, Call me #Muhammed, Call me #Mohamed.
 Call me by your #name.
 
 Say my #name, Say my #name.
